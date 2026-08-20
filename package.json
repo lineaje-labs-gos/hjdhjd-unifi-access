@@ -1,7 +1,7 @@
 {
   "name": "unifi-access",
   "type": "module",
-  "version": "1.5.3",
+  "version": "1.5.3-lineaje-01",
   "displayName": "UniFi Access API",
   "description": "A soon-to-be-almost-complete implementation of the UniFi Access API.",
   "author": {
@@ -10,9 +10,15 @@
   },
   "homepage": "https://github.com/hjdhjd/unifi-access#readme",
   "license": "ISC",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hjdhjd/unifi-access.git"
+    "url": "https://github.com/lineaje-labs-gos/hjdhjd-unifi-access"
   },
   "bugs": {
     "url": "https://github.com/hjdhjd/unifi-access/issues"
